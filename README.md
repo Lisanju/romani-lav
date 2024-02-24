@@ -1,5 +1,5 @@
 # Romani Lav - rekurso linguistiko ye rromanés
-Léxico da variedade romani calón implementado em uma base de dados em português brasileiro com ferramenta de busca.
+Léxico cigano da variedade linguística romani calón implementado em um sistema de busca com informações de classe gramatical, categoria morfossintática e contraparte em português brasileiro.
 
 Inspirado em "Jakob Wiedner - Data base of Romani Dialects (2022)", o recurso linguístico Romani Lav foi desenvolvido pela linguista cigano-brasileira <a href="https://lisanju.github.io">Elisa Anju Lardapide</a> com o intuito de disponibilizar em português brasileiro um recurso acessível sobre a língua cigana romani calón.
 
