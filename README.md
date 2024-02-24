@@ -5,12 +5,14 @@ Inspirado em "Jakob Wiedner - Data base of Romani Dialects (2022)", o recurso li
 
 ## Índice
 
-1. [Sobre o database]();
-2. [Metodologia para o desenvolvimento do Romani Lav]();<br>
-   2.1 [Tratamento do database]();<br>
-   2.2 [Implementação do site]();
-4. [Classes gramaticais]();
-5. [Pronúncia]().
+1. [Sobre o database](https://github.com/Lisanju/romani-lav/tree/main#sobre-o-database);
+2. [Metodologia para o desenvolvimento do Romani Lav](https://github.com/Lisanju/romani-lav/tree/main#metodologia-para-o-desenvolvimento-do-romani-lav);<br>
+   2.1 [Tratamento do database](https://github.com/Lisanju/romani-lav/tree/main#tratamento-do-database);<br>
+   2.2 [Implementação do site](https://github.com/Lisanju/romani-lav/tree/main#implementação-do-site);
+4. [Classes gramaticais](https://github.com/Lisanju/romani-lav/tree/main#classes-gramaticais);
+5. [Pronúncia](https://github.com/Lisanju/romani-lav/tree/main#pronúncia).
+
+## Sobre o database
 
 ## Metodologia para o desenvolvimento do Romani Lav
 
