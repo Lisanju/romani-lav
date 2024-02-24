@@ -16,7 +16,7 @@ Inspirado em "Jakob Wiedner - Data base of Romani Dialects (2022)", o recurso li
 ## Sobre o database
 Existem diversas línguas chamadas de romani. Apesar de suas diferenças estruturais, elas possuem em comum o fato de carregarem um valor simbólico-cultural da etnia rhomá, conhecida popularmente como etnia cigana.
 
-Este recurso linguístico conta apenas com dados das línguas romani-ibéricas, também chamadas de romani calón. Tratam-se de variedades do romani influenciadas pelo espanhol e português europeus. Ainda assim, pelo fluxo migratório dos rhomá, é possível encontrar na língua romani calón influências do espanhol latino e do português brasileiro. Por esse motivo, em nível lexical, também incluí neste recurso palavras derivadas dessas línguas.
+Este recurso linguístico conta apenas com dados das línguas romani-ibéricas, também chamadas de romani calón. Tratam-se de variedades do romani influenciadas pelo espanhol e português europeus. Ainda assim, pelo fluxo migratório dos rhomá, é possível encontrar na língua romani calón influências do espanhol latino e do português brasileiro.
 
 Na seção "Fontes e referências" deste repositório, é possível ver quais fontes foram utilizadas para a coleta dos dados da língua romani calón. Não foi feita nenhuma modificação sobre os dados coletados e, além disso, todos os dados derivam de fontes acadêmicas e/ou avaliadas por falantes nativos.
 
