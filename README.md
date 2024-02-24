@@ -1,7 +1,7 @@
 # Romani Lav - rekurso linguistiko ye rromanés
-Léxico cigano da variedade romani calón implementado em uma base de dados em português brasileiro com ferramenta de busca.
+Léxico da variedade romani calón implementado em uma base de dados em português brasileiro com ferramenta de busca.
 
-Inspirado em "Jakob Wiedner - Data base of Romani Dialects (2022)", o recurso linguístico Romani Lav foi desenvolvido pela linguista cigano-brasileira <a href="https://lisanju.github.io">Elisa Anju Lardapide</a> com o intuito de disponibilizar em português brasileiro um recurso acessível sobre a língua cigana.
+Inspirado em "Jakob Wiedner - Data base of Romani Dialects (2022)", o recurso linguístico Romani Lav foi desenvolvido pela linguista cigano-brasileira <a href="https://lisanju.github.io">Elisa Anju Lardapide</a> com o intuito de disponibilizar em português brasileiro um recurso acessível sobre a língua cigana romani calón.
 
 ## Índice
 
@@ -13,6 +13,9 @@ Inspirado em "Jakob Wiedner - Data base of Romani Dialects (2022)", o recurso li
 5. [Pronúncia](https://github.com/Lisanju/romani-lav/tree/main#pronúncia).
 
 ## Sobre o database
+Existem diversas línguas chamadas de romani. Apesar de suas diferenças estruturais, elas possuem em comum o fato de carregarem um valor simbólico-cultural da etnia rhomá, conhecida popularmente como etnia cigana.
+
+Este recurso linguístico conta apenas com dados das línguas romani-ibéricas, também chamadas de romani calón. Tratam-se de variedades do romani influenciadas pelo espanhol e português europeus. Ainda assim, pelo fluxo migratório dos rhomá, é possível encontrar na língua romani calón influências do espanhol latino e do português brasileiro. Por esse motivo, em nível lexical, também incluí neste recurso palavras derivadas dessas línguas.
 
 ## Metodologia para o desenvolvimento do Romani Lav
 
