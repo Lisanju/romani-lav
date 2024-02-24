@@ -32,6 +32,18 @@ O database conta com os seguintes dados:
 ### Tratamento do database
 
 ### Implementação do site
+Após o tratamento do database, iniciei a etapa de implementação do site. A ideia é que o Romani Lav possa ser facilmente acessado em qualquer dispositivo que esteja conectado na Internet. Por isso, um website me pareceu ser a melhor escolha de implementação. Trata-se de um site simples, em que as tecnologias utilizadas foram: HTML, CSS, JavaScript, JSON, Bootstrap e GitHub Pages.
+
+O site é composto por uma única página (index.html) de estrutura simples, que contém blocos para o logo do site, para a barra de pesquisa e para o rodapé. O arquivo do site, além da página "index.html", é subdividido em outras 4 pastas: data, styles, scripts e imgs:
+
+- A pasta data contém o database "r_data.json" traduzido com os dados da língua okinawana;
+- A pasta styles contém as folhas de estilo "style.css" e "bootstrap.min.css", em que "style.css" modifica diretamente o design da página "index.html" e "bootstrap.min.css" retorna um modelo de licença Bootstrap;
+- A pasta scripts contém os scripts "script.js" e "bootstrap.bundle.min.js", em que "boostrap.bundle.min.js" retorna um modelo de script de licença Bootstrap e "script.js" possui a programação em JavaScript para interação do usuário com o site, gerenciamento da palavra digitada pelo usuário, busca pela palavra na base de dados "r_data.json" e modificação da página "index.html" para a exibição das informações sobre a palavra pesquisada;
+- A pasta imgs contém todos os arquivos de imagens utilizados pelo site em formato .png.
+
+Com a estruturação e programação do site finalizadas, hospedei o site através da plataforma GitHub Pages, que oferece um serviço de hosting gratuito e consideravelmente seguro quando em comparação com outros serviços.
+
+Essa foi a metodologia utilizada para o desenvolvimento do Romani Lav. Note que o projeto ainda está em desenvolvimento. Aceito qualquer sugestão que puderem oferecer, mas peço que, por favor, enviem as sugestões pelo e-mail "lisanju.contato@gmail.com", escrevendo no título do e-mail "Romani Lav Sugestão". Evite utilizar os chats do Instagram, WhatsApp, Discord, Twitter ou qualquer outro serviço que não seja pelo e-mail. Trata-se de uma questão de conveniência e organização.
 
 ## Classes gramaticais
 
