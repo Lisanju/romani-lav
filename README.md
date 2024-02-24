@@ -36,7 +36,7 @@ Após o tratamento do database, iniciei a etapa de implementação do site. A id
 
 O site é composto por uma única página (index.html) de estrutura simples, que contém blocos para o logo do site, para a barra de pesquisa e para o rodapé. O arquivo do site, além da página "index.html", é subdividido em outras 4 pastas: data, styles, scripts e imgs:
 
-- A pasta data contém o database "r_data.json" traduzido com os dados da língua okinawana;
+- A pasta data contém o database "r_data.json" traduzido com os dados da língua romani calón;
 - A pasta styles contém as folhas de estilo "style.css" e "bootstrap.min.css", em que "style.css" modifica diretamente o design da página "index.html" e "bootstrap.min.css" retorna um modelo de licença Bootstrap;
 - A pasta scripts contém os scripts "script.js" e "bootstrap.bundle.min.js", em que "boostrap.bundle.min.js" retorna um modelo de script de licença Bootstrap e "script.js" possui a programação em JavaScript para interação do usuário com o site, gerenciamento da palavra digitada pelo usuário, busca pela palavra na base de dados "r_data.json" e modificação da página "index.html" para a exibição das informações sobre a palavra pesquisada;
 - A pasta imgs contém todos os arquivos de imagens utilizados pelo site em formato .png.
